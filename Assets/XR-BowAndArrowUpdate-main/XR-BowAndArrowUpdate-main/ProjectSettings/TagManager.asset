@@ -4,9 +4,7 @@
 TagManager:
   serializedVersion: 2
   tags:
-  - Bullet
-  - LeftHand
-  - RightHand
+  - Hand
   layers:
   - Default
   - TransparentFX
@@ -16,9 +14,9 @@ TagManager:
   - UI
   - 
   - 
-  - Body
-  - 
-  - 
+  - PostProcessing
+  - Character
+  - Arrow
   - 
   - 
   - 
